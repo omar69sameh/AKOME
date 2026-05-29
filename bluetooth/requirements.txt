@@ -1,0 +1,9 @@
+# Bluetooth server for TuioDemo (Pybluez2 Bluetooth.py --server)
+# Install: pip install -r requirements.txt
+#
+# PyPI PyBluez 0.23 often fails on Windows with: use_2to3 is invalid
+# The maintained fix is to install from GitHub (needs Git on PATH):
+pybluez @ git+https://github.com/pybluez/pybluez.git
+#
+# If you cannot use Git, install Microsoft C++ Build Tools and try pinning an older
+# setuptools, or use WSL/Linux for this script.

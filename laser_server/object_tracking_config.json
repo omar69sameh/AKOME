@@ -1,0 +1,8 @@
+{
+    "_comment": "Object tracking config. 'yolo' uses standard YOLO COCO model (80 classes). 'hsv' uses colour tracking.",
+    "method": "yolo",
+    "model_path": "Objectt/yolo11n.pt",
+    "confidence": 0.25,
+    "hsv_lower": [0, 80, 50],
+    "hsv_upper": [10, 255, 255]
+}

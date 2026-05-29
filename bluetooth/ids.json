@@ -1,0 +1,59 @@
+{
+  "ids": [
+    {
+      "id": "A0:D7:F3:AE:74:5B",
+      "mac_address": "A0:D7:F3:AE:74:5B",
+      "device_name": "[TV] Samsung AU7000 58 TV"
+    },
+    {
+      "id": "4C:57:39:48:EE:1D",
+      "mac_address": "4C:57:39:48:EE:1D",
+      "device_name": "4C:57:39:48:EE:1D"
+    },
+    {
+      "id": "38:68:A4:6C:23:E8",
+      "mac_address": "38:68:A4:6C:23:E8",
+      "device_name": "38:68:A4:6C:23:E8"
+    },
+    {
+      "id": "38:68:A4:EC:95:92",
+      "mac_address": "38:68:A4:EC:95:92",
+      "device_name": "38:68:A4:EC:95:92"
+    },
+    {
+      "id": "F8:8F:07:73:D5:B8",
+      "mac_address": "F8:8F:07:73:D5:B8",
+      "device_name": "Ahmed's A32"
+    },
+    {
+      "id": "2C:C2:53:98:9D:D5",
+      "mac_address": "2C:C2:53:98:9D:D5",
+      "device_name": "Cold"
+    },
+    {
+      "id": "04:29:8C:DB:DF:6F",
+      "mac_address": "04:29:8C:DB:DF:6F",
+      "device_name": "04:29:8C:DB:DF:6F"
+    },
+    {
+      "id": "00:7C:2D:11:79:18",
+      "mac_address": "00:7C:2D:11:79:18",
+      "device_name": "00:7C:2D:11:79:18"
+    },
+    {
+      "id": "28:52:E0:19:AA:89",
+      "mac_address": "28:52:E0:19:AA:89",
+      "device_name": "28:52:E0:19:AA:89"
+    },
+    {
+      "id": "02:0B:4D:BC:42:41",
+      "mac_address": "02:0B:4D:BC:42:41",
+      "device_name": "02:0B:4D:BC:42:41"
+    },
+    {
+      "id": "04:29:8C:78:16:3B",
+      "mac_address": "04:29:8C:78:16:3B",
+      "device_name": "04:29:8C:78:16:3B"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "session_started_utc": "2026-05-17T11:46:17.648463+00:00",
+  "source": "split_screen_gaze",
+  "duration_seconds": 22.764,
+  "totals": {
+    "question_seconds": 17.886,
+    "answer_seconds": 4.607,
+    "distracted_seconds": 0.271,
+    "no_face_seconds": 0.0
+  },
+  "percentages": {
+    "question_percent": 78.6,
+    "answer_percent": 20.2,
+    "distracted_percent": 1.2
+  },
+  "gaze_points_count": 166,
+  "vertical_diagnostics": {
+    "anchor_raw": 0.4492,
+    "mean_screen_v": 0.3473,
+    "bias": "toward_question",
+    "question_threshold": 0.0132,
+    "answer_threshold": -0.0132
+  },
+  "heatmap_path": "C:\\Users\\omars\\OneDrive\\Desktop\\bothh\\bothh\\gaze_tracking\\heatmap_20260517_144615.png",
+  "notes": "Calibrate by looking at the CENTER of the screen for ~2s. Top half = question, bottom = answer."
+}

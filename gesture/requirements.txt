@@ -1,0 +1,13 @@
+# Gesture server + work.py + main.py. Install: pip install -r requirements.txt
+#
+# Windows mediapipe 0.10.33 has no mp.solutions — code uses Tasks HandLandmarker instead.
+# TensorFlow (via MediaPipe) needs protobuf 5.28+.
+# If you share this env with TensorFlow/Streamlit, keep protobuf<6 and numpy<2.1.
+#
+# First run downloads hand_landmarker.task (~10 MB) into this folder.
+
+mediapipe>=0.10.33
+protobuf>=5.28.0,<6
+numpy>=1.26.0,<2.1
+opencv-python
+dollarpy

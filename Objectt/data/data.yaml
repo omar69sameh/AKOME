@@ -1,0 +1,5 @@
+train: train/images
+val: valid/images
+
+nc: 20
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'N', 'R', 'S', 'T', 'Y', 'Back', 'Confirm', 'Down', 'LeftSwipe', 'RightSwipe', 'Undo', 'Up']
